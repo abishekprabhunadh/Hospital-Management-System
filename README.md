@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 Hospital Management System is a Java Web Application developed using JSP, HTML, CSS, Hibernate, and MySQL.  
-This system helps manage hospital operations such as patient records, doctor details, appointments, and billing.
+This system helps manage hospital operations such as patient records, doctor details, login and CRUD operations.
 
 ---
 
