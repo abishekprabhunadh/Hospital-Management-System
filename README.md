@@ -36,4 +36,4 @@ This system helps manage hospital operations such as patient records, doctor det
 ---
 
 ## 👤 Author
-Abhishek Prabhunadh
+Abishek Prabhu Nadh
