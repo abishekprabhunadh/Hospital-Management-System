@@ -35,5 +35,17 @@ This system helps manage hospital operations such as patient records, doctor det
 
 ---
 
+## 📷 Project Screenshots
+
+![Login](screenshots/login.png)
+
+![Dashboard](screenshots/dashboard.png)
+
+![Add Patient](screenshots/add-patient.png)
+
+![Patient Records](screenshots/patient-records.png)
+
+
 ## 👤 Author
 Abishek Prabhu Nadh
+
